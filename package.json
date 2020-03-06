@@ -1,0 +1,19 @@
+{
+  "name": "@dommmm/dom-ui-test",
+  "version": "1.0.0",
+  "description": "UI library for dummy website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominicgan/dom-ui.git"
+  },
+  "author": "Dominic Gan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominicgan/dom-ui/issues"
+  },
+  "homepage": "https://github.com/dominicgan/dom-ui#readme"
+}
